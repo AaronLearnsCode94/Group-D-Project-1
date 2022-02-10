@@ -19,14 +19,16 @@ Q7 Overlay Prices of all commodities to see if there is one that outperformed an
 
 Key data:
 
-Use day-by – day/week-by-week data for most popular Australian resources
+Use day-by–day/week-by-week data for most popular Australian resources
+
 Project purpose:
 
 1) Explore historical performance of the resources
 
-2)  Explore heir historical relationship and how it changed recently – do correlation matrix
+2) Explore their historical relationship and how it changed though time – do correlation matrix
 
-3) Regress/Correlate them on ASX 200/other AU indices to find out which commodities affect ASX the most – try different day lags
+3) Regress/Correlate them on ASX 200/other AU indices to find out which commodities affect ASX the most (can try different day lags)
 
 Key commodities:
-Steel, Iron Ore, Metallurgucal Coal, Thermal Coal, Gas, Oil, Uranim, Gold, Aluminium, Copper, Nickel, Znc, Lithium
+
+Steel, Iron Ore, Metallurgical Coal, Thermal Coal, Gas, Oil, Uranim, Gold, Aluminium, Copper, Nickel, Zinc, Lithium
