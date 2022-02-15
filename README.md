@@ -3,7 +3,7 @@ Group D Project: 1
 
 Key activities:
 
-Q1 Analyse and prepare previous commodities data to current commodities data
+Q1 Analyse and prepare previous commodities data to current commodities data.
 
 Q2 How to accurately plot and display the data.
 
@@ -28,6 +28,30 @@ Project purpose:
 2) Explore their historical relationship and how it changed though time – do correlation matrix
 
 3) Regress/Correlate them on ASX 200/other AU indices to find out which commodities affect ASX the most (can try different day lags)
+
+Summary of activities to do:
+
+1) Do interpolation for missing dates (in case few work days missing)
+
+2) Drop Nan for weekends
+
+3) Multiply all commodity columns by AUD exchange rate
+
+4) Concat all together
+
+5) Calculate % changes
+
+6) Calculate cumlative returns
+
+7) Calculate mean/variuence, other risk measures
+
+8) Do correlation seaborn map
+
+9) Add ratios calculations between commodities
+
+10) Update yahho indeces to match commoditied dataframe and start comparing
+
+11) Charts etc
 
 Key commodities:
 
